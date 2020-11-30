@@ -9,4 +9,11 @@ Built using tkinter and the coinmarketcap API
 
 Select cryptocurrencies to compare using the dropdown menus on the top row, and press update to get updated stats.
 
+#### Technology Used
+* Python 3
+* tkinter for GUI
+
 Thank you to coinmarketcap for providing the API for coin data.
+
+Note: needs to be updated to have a config file in which the user's API key can be added. Also need
+to update API requests.
