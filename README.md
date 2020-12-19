@@ -1,5 +1,6 @@
 # cryptotracker
 ![API_requires_key](https://img.shields.io/badge/API-requires%20key-red)
+
 A python app for comparing stats of various cryptocurrencies.
 
 Built using tkinter and the coinmarketcap API
