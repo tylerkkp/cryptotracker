@@ -4,6 +4,7 @@
 A python app for comparing stats of various cryptocurrencies.
 
 Built using tkinter and the coinmarketcap API
+If you wish to run the app locally, you will need to install tkinter.
 
 ![alt text][logo]
 
