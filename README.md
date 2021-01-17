@@ -2,6 +2,7 @@
 ![API_requires_key](https://img.shields.io/badge/API-requires%20key-red)
 
 A python app for comparing stats of various cryptocurrencies.
+*2021 UPDATE* The cryptocurrency markets have been going crazy in the early weeks of 2021. I will be working to update in the near future... 
 
 Built using tkinter and the coinmarketcap API
 If you wish to run the app locally, you will need to install tkinter.
